@@ -1,0 +1,28 @@
+.screen1 {
+  background: #f1f7fe;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  border-radius: 30px;
+  box-shadow: 0 0 2em #e6e9f9;
+  gap: 2em;
+}
+.field {
+  background: white;
+  box-shadow: 0 0 2em #e6e9f9;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  border-radius: 20px;
+  color: #4d4d4d;
+  margin-bottom: -0.2em;
+}
+.login {
+  padding: 1em;
+  background: #3E4684;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-weight: 600;
+}

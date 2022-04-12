@@ -8,4 +8,13 @@
 - Redux + Thunk
 - Authorization is not important so login process managed by simple redux states and lost after refresfh the page.
 
-### Installation
+## Start Website
+
+```sh
+npm install
+```
+```sh
+npm run dev
+```
+
+Check http://localhost:3000 and login with users managed via http://localhost:4000
